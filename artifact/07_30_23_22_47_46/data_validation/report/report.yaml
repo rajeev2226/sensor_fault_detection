@@ -1,0 +1,495 @@
+test_missing_values_columns: []
+train_missing_values_columns: []
+train_test_drift:
+  aa_000:
+    pvalues: 0.358277011718529
+    same_distribution: true
+  ac_000:
+    pvalues: 0.5114263375503267
+    same_distribution: true
+  ad_000:
+    pvalues: 0.7489269561145853
+    same_distribution: true
+  ae_000:
+    pvalues: 0.9999999999999344
+    same_distribution: true
+  af_000:
+    pvalues: 0.9999999999998449
+    same_distribution: true
+  ag_000:
+    pvalues: 1.0
+    same_distribution: true
+  ag_001:
+    pvalues: 1.0
+    same_distribution: true
+  ag_002:
+    pvalues: 0.9999999991141706
+    same_distribution: true
+  ag_003:
+    pvalues: 0.49348739298723565
+    same_distribution: true
+  ag_004:
+    pvalues: 0.12487555664394545
+    same_distribution: true
+  ag_005:
+    pvalues: 0.8807404740018495
+    same_distribution: true
+  ag_006:
+    pvalues: 0.3119646039688594
+    same_distribution: true
+  ag_007:
+    pvalues: 0.5103149454949215
+    same_distribution: true
+  ag_008:
+    pvalues: 0.16626791390289652
+    same_distribution: true
+  ag_009:
+    pvalues: 0.6277940068413539
+    same_distribution: true
+  ah_000:
+    pvalues: 0.5650659469471708
+    same_distribution: true
+  ai_000:
+    pvalues: 0.6967118233296195
+    same_distribution: true
+  aj_000:
+    pvalues: 0.5917026504669007
+    same_distribution: true
+  ak_000:
+    pvalues: 1.0
+    same_distribution: true
+  al_000:
+    pvalues: 0.019422939717793193
+    same_distribution: false
+  am_0:
+    pvalues: 0.006711626113608514
+    same_distribution: false
+  an_000:
+    pvalues: 0.7283384009004521
+    same_distribution: true
+  ao_000:
+    pvalues: 0.5019396286800392
+    same_distribution: true
+  ap_000:
+    pvalues: 0.27902264157510837
+    same_distribution: true
+  aq_000:
+    pvalues: 0.5219768480398974
+    same_distribution: true
+  ar_000:
+    pvalues: 0.9982131566221363
+    same_distribution: true
+  as_000:
+    pvalues: 1.0
+    same_distribution: true
+  at_000:
+    pvalues: 0.7616046353517083
+    same_distribution: true
+  au_000:
+    pvalues: 1.0
+    same_distribution: true
+  av_000:
+    pvalues: 0.16110156820432686
+    same_distribution: true
+  ax_000:
+    pvalues: 0.2363668521081912
+    same_distribution: true
+  ay_000:
+    pvalues: 1.0
+    same_distribution: true
+  ay_001:
+    pvalues: 1.0
+    same_distribution: true
+  ay_002:
+    pvalues: 1.0
+    same_distribution: true
+  ay_003:
+    pvalues: 1.0
+    same_distribution: true
+  ay_004:
+    pvalues: 0.9999997849535719
+    same_distribution: true
+  ay_005:
+    pvalues: 0.7077380405762981
+    same_distribution: true
+  ay_006:
+    pvalues: 0.3755655066143919
+    same_distribution: true
+  ay_007:
+    pvalues: 0.3470173758795314
+    same_distribution: true
+  ay_008:
+    pvalues: 0.09761018083325879
+    same_distribution: true
+  ay_009:
+    pvalues: 1.0
+    same_distribution: true
+  az_000:
+    pvalues: 0.8353755169786761
+    same_distribution: true
+  az_001:
+    pvalues: 0.10888331008588337
+    same_distribution: true
+  az_002:
+    pvalues: 0.15712145455449744
+    same_distribution: true
+  az_003:
+    pvalues: 0.5529595730424891
+    same_distribution: true
+  az_004:
+    pvalues: 0.4001181861917732
+    same_distribution: true
+  az_005:
+    pvalues: 0.8964076650294047
+    same_distribution: true
+  az_006:
+    pvalues: 0.23934790586710808
+    same_distribution: true
+  az_007:
+    pvalues: 0.9879390635175324
+    same_distribution: true
+  az_008:
+    pvalues: 0.9999999999995697
+    same_distribution: true
+  az_009:
+    pvalues: 0.9999995681288942
+    same_distribution: true
+  ba_000:
+    pvalues: 0.6887750140233078
+    same_distribution: true
+  ba_001:
+    pvalues: 0.2928073420619638
+    same_distribution: true
+  ba_002:
+    pvalues: 0.505909622389888
+    same_distribution: true
+  ba_003:
+    pvalues: 0.37489673571007354
+    same_distribution: true
+  ba_004:
+    pvalues: 0.5437968781197604
+    same_distribution: true
+  ba_005:
+    pvalues: 0.8490279084921741
+    same_distribution: true
+  ba_006:
+    pvalues: 0.9638449779141606
+    same_distribution: true
+  ba_007:
+    pvalues: 0.11659193398279544
+    same_distribution: true
+  ba_008:
+    pvalues: 0.020156244697712947
+    same_distribution: false
+  ba_009:
+    pvalues: 0.38980812248760144
+    same_distribution: true
+  bb_000:
+    pvalues: 0.5103368405557251
+    same_distribution: true
+  bc_000:
+    pvalues: 0.2693733075117014
+    same_distribution: true
+  bd_000:
+    pvalues: 0.9049685458096182
+    same_distribution: true
+  be_000:
+    pvalues: 0.9083134015401767
+    same_distribution: true
+  bf_000:
+    pvalues: 0.16937876119296857
+    same_distribution: true
+  bg_000:
+    pvalues: 0.626452712754809
+    same_distribution: true
+  bh_000:
+    pvalues: 0.7195717990088037
+    same_distribution: true
+  bi_000:
+    pvalues: 0.39673835599286966
+    same_distribution: true
+  bj_000:
+    pvalues: 0.3473929264940422
+    same_distribution: true
+  bk_000:
+    pvalues: 0.3587732021633768
+    same_distribution: true
+  bl_000:
+    pvalues: 0.6432433430762928
+    same_distribution: true
+  bm_000:
+    pvalues: 0.8881694558905855
+    same_distribution: true
+  bs_000:
+    pvalues: 0.2715192633305288
+    same_distribution: true
+  bt_000:
+    pvalues: 0.28226660085882493
+    same_distribution: true
+  bu_000:
+    pvalues: 0.49377580476887495
+    same_distribution: true
+  bv_000:
+    pvalues: 0.49377580476887495
+    same_distribution: true
+  bx_000:
+    pvalues: 0.8156387047167848
+    same_distribution: true
+  by_000:
+    pvalues: 0.21306638491839092
+    same_distribution: true
+  bz_000:
+    pvalues: 0.6342290425537036
+    same_distribution: true
+  ca_000:
+    pvalues: 0.6254246296508514
+    same_distribution: true
+  cb_000:
+    pvalues: 0.612564956066243
+    same_distribution: true
+  cc_000:
+    pvalues: 0.5785016732868138
+    same_distribution: true
+  cd_000:
+    pvalues: 1.0
+    same_distribution: true
+  ce_000:
+    pvalues: 0.14465765931254593
+    same_distribution: true
+  cf_000:
+    pvalues: 0.996562305447886
+    same_distribution: true
+  cg_000:
+    pvalues: 0.4771811284483466
+    same_distribution: true
+  ch_000:
+    pvalues: 0.9999767384885243
+    same_distribution: true
+  ci_000:
+    pvalues: 0.6933327057520835
+    same_distribution: true
+  cj_000:
+    pvalues: 0.9992038271868504
+    same_distribution: true
+  ck_000:
+    pvalues: 0.544067453286893
+    same_distribution: true
+  cl_000:
+    pvalues: 0.16065162705183034
+    same_distribution: true
+  class:
+    pvalues: 1.0
+    same_distribution: true
+  cm_000:
+    pvalues: 0.07874081326024174
+    same_distribution: true
+  cn_000:
+    pvalues: 0.9999999999999225
+    same_distribution: true
+  cn_001:
+    pvalues: 0.987177502185483
+    same_distribution: true
+  cn_002:
+    pvalues: 0.1907279638109861
+    same_distribution: true
+  cn_003:
+    pvalues: 0.8992333771724736
+    same_distribution: true
+  cn_004:
+    pvalues: 0.3609640025685932
+    same_distribution: true
+  cn_005:
+    pvalues: 0.26831309484266097
+    same_distribution: true
+  cn_006:
+    pvalues: 0.25526274626996104
+    same_distribution: true
+  cn_007:
+    pvalues: 0.16863849265376596
+    same_distribution: true
+  cn_008:
+    pvalues: 0.11178924496204401
+    same_distribution: true
+  cn_009:
+    pvalues: 0.4827141207995166
+    same_distribution: true
+  co_000:
+    pvalues: 0.43327391363137835
+    same_distribution: true
+  cp_000:
+    pvalues: 0.12227169524703807
+    same_distribution: true
+  cq_000:
+    pvalues: 0.49377580476887495
+    same_distribution: true
+  cs_000:
+    pvalues: 0.48306137638402413
+    same_distribution: true
+  cs_001:
+    pvalues: 0.6955915417759042
+    same_distribution: true
+  cs_002:
+    pvalues: 0.19497444116130702
+    same_distribution: true
+  cs_003:
+    pvalues: 0.8334438724512663
+    same_distribution: true
+  cs_004:
+    pvalues: 0.3642615604302155
+    same_distribution: true
+  cs_005:
+    pvalues: 0.23775533465115817
+    same_distribution: true
+  cs_006:
+    pvalues: 0.5098034069461755
+    same_distribution: true
+  cs_007:
+    pvalues: 0.1259783805260467
+    same_distribution: true
+  cs_008:
+    pvalues: 0.8217278853037189
+    same_distribution: true
+  cs_009:
+    pvalues: 0.9999999999995587
+    same_distribution: true
+  ct_000:
+    pvalues: 0.7750830982962537
+    same_distribution: true
+  cu_000:
+    pvalues: 0.43026860073657125
+    same_distribution: true
+  cv_000:
+    pvalues: 0.7022969270880048
+    same_distribution: true
+  cx_000:
+    pvalues: 0.3832479310046215
+    same_distribution: true
+  cy_000:
+    pvalues: 0.4936202344577758
+    same_distribution: true
+  cz_000:
+    pvalues: 0.5728582413506755
+    same_distribution: true
+  da_000:
+    pvalues: 0.8607372138699747
+    same_distribution: true
+  db_000:
+    pvalues: 0.1789870442474043
+    same_distribution: true
+  dc_000:
+    pvalues: 0.6483724335612444
+    same_distribution: true
+  dd_000:
+    pvalues: 0.44821735176657995
+    same_distribution: true
+  de_000:
+    pvalues: 0.48562733743842146
+    same_distribution: true
+  df_000:
+    pvalues: 0.9999836818323434
+    same_distribution: true
+  dg_000:
+    pvalues: 0.9998475362369295
+    same_distribution: true
+  dh_000:
+    pvalues: 1.0
+    same_distribution: true
+  di_000:
+    pvalues: 0.9999987732638378
+    same_distribution: true
+  dj_000:
+    pvalues: 1.0
+    same_distribution: true
+  dk_000:
+    pvalues: 1.0
+    same_distribution: true
+  dl_000:
+    pvalues: 1.0
+    same_distribution: true
+  dm_000:
+    pvalues: 1.0
+    same_distribution: true
+  dn_000:
+    pvalues: 0.25369478595055717
+    same_distribution: true
+  do_000:
+    pvalues: 0.6741413133413532
+    same_distribution: true
+  dp_000:
+    pvalues: 0.814052583833943
+    same_distribution: true
+  dq_000:
+    pvalues: 0.8876057495263268
+    same_distribution: true
+  dr_000:
+    pvalues: 0.9144533097758933
+    same_distribution: true
+  ds_000:
+    pvalues: 0.29613694234300125
+    same_distribution: true
+  dt_000:
+    pvalues: 0.4569517864707946
+    same_distribution: true
+  du_000:
+    pvalues: 0.30703633857326795
+    same_distribution: true
+  dv_000:
+    pvalues: 0.4554282142750966
+    same_distribution: true
+  dx_000:
+    pvalues: 0.9917125350357794
+    same_distribution: true
+  dy_000:
+    pvalues: 0.9974796185810854
+    same_distribution: true
+  dz_000:
+    pvalues: 1.0
+    same_distribution: true
+  ea_000:
+    pvalues: 0.9999999999999659
+    same_distribution: true
+  eb_000:
+    pvalues: 0.027085717750644722
+    same_distribution: false
+  ec_00:
+    pvalues: 0.23649674162159173
+    same_distribution: true
+  ed_000:
+    pvalues: 0.38096134213736266
+    same_distribution: true
+  ee_000:
+    pvalues: 0.7370525325882307
+    same_distribution: true
+  ee_001:
+    pvalues: 0.38130787429008894
+    same_distribution: true
+  ee_002:
+    pvalues: 0.4250147565504738
+    same_distribution: true
+  ee_003:
+    pvalues: 0.3069450665362853
+    same_distribution: true
+  ee_004:
+    pvalues: 0.573984037614413
+    same_distribution: true
+  ee_005:
+    pvalues: 0.8238071207090648
+    same_distribution: true
+  ee_006:
+    pvalues: 0.09034608081147943
+    same_distribution: true
+  ee_007:
+    pvalues: 0.20378414389312527
+    same_distribution: true
+  ee_008:
+    pvalues: 0.6417699010284832
+    same_distribution: true
+  ee_009:
+    pvalues: 0.6548877337835509
+    same_distribution: true
+  ef_000:
+    pvalues: 1.0
+    same_distribution: true
+  eg_000:
+    pvalues: 1.0
+    same_distribution: true
